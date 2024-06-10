@@ -1,2 +1,2 @@
-# ja-practice
+# js-practice
 working on javascript practice 
